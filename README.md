@@ -5,7 +5,7 @@ A custom react hook for listening the end of the scroll to support load more fea
 To use this hook, you must be on react@16.8.0 or greater than that.
 
 # Demo 
-![demo]("https://media.giphy.com/media/kxbngH4hfGapCWA4DX/giphy.gif")
+![](demo.gif)
 
 # Installation
 
